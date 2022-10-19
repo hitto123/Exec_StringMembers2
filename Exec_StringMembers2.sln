@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q1", "Q1\Q1.csproj", "{E82D79E7-BC1B-463C-B397-593E18BC3564}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "q2", "q2\q2.csproj", "{6AD7312D-E74B-4F32-B623-DEFA65E42F29}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q2", "q2\Q2.csproj", "{6AD7312D-E74B-4F32-B623-DEFA65E42F29}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q3", "Q3\Q3.csproj", "{7E8F955E-99E0-4E94-9958-540EFFC9D9A6}"
 EndProject
@@ -18,8 +18,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q7", "Q7\Q7.csproj", "{D66B5310-6E2D-4795-B077-5C3A519F8BA2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q8", "Q8\Q8.csproj", "{877C7E00-6819-48FE-9FFB-D5E92DD5143C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{DDE64714-534A-4AD1-B11F-380E0B4D65C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,10 +57,6 @@ Global
 		{877C7E00-6819-48FE-9FFB-D5E92DD5143C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{877C7E00-6819-48FE-9FFB-D5E92DD5143C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{877C7E00-6819-48FE-9FFB-D5E92DD5143C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DDE64714-534A-4AD1-B11F-380E0B4D65C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DDE64714-534A-4AD1-B11F-380E0B4D65C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DDE64714-534A-4AD1-B11F-380E0B4D65C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DDE64714-534A-4AD1-B11F-380E0B4D65C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

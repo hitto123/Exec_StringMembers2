@@ -14,7 +14,7 @@ namespace Q1
 			string Space=word.Trim();
 			Console.WriteLine(Space);
 			
-
+			///123
 		}
 	}
 }
