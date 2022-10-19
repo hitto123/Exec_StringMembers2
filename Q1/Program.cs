@@ -13,8 +13,8 @@ namespace Q1
 			string word = " abc ";
 			string Space=word.Trim();
 			Console.WriteLine(Space);
-			
-			///123
+			Console.WriteLine(Space);
+
 		}
 	}
 }
